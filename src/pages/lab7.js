@@ -7,7 +7,7 @@ import ToggleButton from './lab7/ToggleButton';
 const Lab7 = () => {
   return (
     <div className="lab7">
-      <h1>React Components</h1>
+      <h1>Lab7</h1>
       <h2>Задача1</h2>
       <Square n={3} />
       <h2>Задача2</h2>

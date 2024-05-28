@@ -11,7 +11,7 @@ const CountdownTimer = () => {
     return () => clearInterval(timer);
   }, [count]);
 
-  return <div>Countdown: {count}</div>;
+  return <div>Обратный отсчет: {count}</div>;
 };
 
 export default CountdownTimer;
